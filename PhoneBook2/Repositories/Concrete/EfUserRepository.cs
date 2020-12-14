@@ -30,10 +30,6 @@ namespace PhoneBook2.Repositories.Concrete
             throw new NotImplementedException();
         }
 
-        public void FindbyID(int ID, TextBox textBox)
-        {
-            throw new NotImplementedException();
-        }
 
         public void UpdateUser(int ID, string name)
         {

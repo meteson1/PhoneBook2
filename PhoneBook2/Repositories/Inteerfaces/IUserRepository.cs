@@ -12,6 +12,6 @@ namespace PhoneBook2.Repositories.Inteerfaces
         void CreateUser(string name);
         void UpdateUser(int ID, string name);
         void DeleteUser(int ID);
-        void FindbyID(int ID, TextBox textBox);
+
     }
 }
